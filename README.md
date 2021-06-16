@@ -1,4 +1,4 @@
-# BeachWaterQuality-CSE2004Project
+# Beach Water Quality - CSE 2004 Project
 
 ![Copy of Pranav Viswanathan's Banner](https://github.com/PranavViswanathan/BeachWaterQuality-CSE2004Project/blob/main/BE.gif)
 
