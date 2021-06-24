@@ -31,3 +31,10 @@ Link to the youtube video: https://youtu.be/PPbz-T6OLow
    <p align="center">
   <img alt="Maven" src="https://img.shields.io/badge/Maven-430098?style=for-the-badge&logo=maven&logoColor=white">
  </p>
+
+## Extra Info
+<p align="center">
+<img alt="Website" src="https://img.shields.io/website?down_color=yellow&down_message=Not%20in%20use&style=for-the-badge&up_color=green&up_message=In%20Use&url=https%3A%2F%2Fpranavviswanathandbms.herokuapp.com%2F">
+  <img alt="GitHub" src="https://img.shields.io/github/license/PranavViswanathan/BeachWaterQuality-CSE2004Project?style=for-the-badge">
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/PranavViswanathan/BeachWaterQuality-CSE2004Project?style=for-the-badge">
+</p>
