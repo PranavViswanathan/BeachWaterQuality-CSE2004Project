@@ -4,7 +4,7 @@
 
 The aim of this project is to create a user-friendly interface that allows a user to view the water quality of public water sources.
 
-The Chicago Park District maintains sensors in the water at beaches along Chicago's Lake Michigan lakefront. These sensors generally capture the indicated measurements hourly while the sensors are in operation during the summer. During other seasons and at some other times, information from the sensors may not be available.
+The Chicago Park District maintains sensors in the water at beaches along Chicago's Lake Michigan lakefront. These sensors generally capture the indicated measurements hourly while the sensors are in operation during the summer. During other seasons and at some other times, information from the sensors may not be available
 
 Link to the project: https://pranavviswanathandbms.herokuapp.com/<br>
 Link to the youtube video: https://youtu.be/PPbz-T6OLow
